@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160">
+	<title>iron_sword</title>
+	<defs>
+		<image  width="160" height="160" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAACgBAMAAAB54XoeAAAAAXNSR0IB2cksfwAAACRQTFRFAAAARERE////GBgYvr6+2NjYa2trlpaWSTYVaE4eiWcnKB4LNv9YIQAAAAx0Uk5TAP//////////////CcRQJgAAAM1JREFUeJzt2EENwzAMheEVQiiEQimsEEqhWIphFEZhFEohFEKhcg+2Inmapd3q34cnWXa+a5tMj3+rjO0ECAjoWWVsAQEBXatKNEBAwKh1AAICelZR8NAVQMDcYMACBEwB2g2mO9ZTB18tQMA84CrxHg9HLUDAFKCpm8RHomq03xYgYEbwqq4RsAAB84Cm2ueqBi1AwDzgruBLoukgqgIC3h3c9dwFLhKzTltQBQS8J2hPaAYuzqLRgIBpwVUXo39tgIDJwHnsAQEBvToBmZF3VvZ8AQEAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

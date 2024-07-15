@@ -2,28 +2,20 @@ import logo from './logo.svg';
 import map from './images/map outside.svg'
 import './App.css';
 import Button from "./components/Button/Button";
+import Header from "./components/Header/Header";
+import {Route, Routes} from "react-router-dom";
+import ProductList from "./components/ProductList/ProductList";
+import Form from "./components/Form/Form";
 
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Created by <code>cobalteek</code> for
-        </p>
-        <a
-          className="App-link"
-          href="https://twitch.tv/ebar_drakonov"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Ebar drakonov
-        </a>
-          <Button>meow</Button>
-        <img src={map} alt="map outside"/>
-        <h1>MAP OUTSIDE</h1>
-      </header>
+        <Header/>
+        <Routes>
+            <Route index element={<ProductList />}/>
+            <Route path={'form'} element={<Form />}/>
+        </Routes>
     </div>
   );
 }

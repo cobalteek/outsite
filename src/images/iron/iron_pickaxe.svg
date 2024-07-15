@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160">
+	<title>iron_pickaxe</title>
+	<defs>
+		<image  width="130" height="130" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAACCBAMAAAB4LQ3OAAAAAXNSR0IB2cksfwAAAB5QTFRFAAAARERE////2NjYwcHBSTYVaE4eGBgYiWcnKB4LspgmBgAAAAp0Uk5TAP///////////36JFFYAAADDSURBVHic7dfBDYMwDIXhMgKzsAIrZIUyAjN0hHYFVugKrMAKXaEyB1tETlWkxFx+H54iB38nKxLdzanea0p9nF6HgNBU6J2w4U1i1IsXAkJ7wZj7sbfqyYQJASFI8CpJbDo8SDwQEK4R0nFukdgf3hEBIVxIOmdP6yyx6gUCQpSQ7fKkFwgI8YK3y1a78JYov7QICNWE4i5nwqIfIyA0E37vssfkf0kICNWEP3a5WAgIlYVTu4yAECA89Xh+GAGhgfAFDRr9wQLmpKsAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="20" y="20"/>
+</svg>

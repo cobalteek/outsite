@@ -10,14 +10,13 @@ const ProductItem = ({product, className, onAdd}) => {
 
     return (
         <div className={'product ' + className}>
-            <div className={'img'}/>
+            <div className={'img'}>{product.img}</div>
             <div className={'title'}>{product.title}</div>
-            <div className={'description'}>{product.description}</div>
             <div className={'price'}>
-                <span>Стоимость: <b>{product.price}</b></span>
+                <span>Стоимость: <b>{product.price} алмаз</b></span>
             </div>
             <Button className={'add-btn'} onClick={onAddHandler}>
-                Добавить в корзину
+                Найти на карте
             </Button>
         </div>
     );

@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160">
+	<title>iron_axe</title>
+	<defs>
+		<image  width="120" height="140" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAACMBAMAAABFSXDuAAAAAXNSR0IB2cksfwAAACFQTFRFAAAARERE////wcHB2NjYSTYVaE4eGBgYlpaWKB4LiWcn9P7xvQAAAAt0Uk5TAP////////////99dn3VAAAAsklEQVR4nO3UQRHCMBCF4VZCLGABC1ioBSqhGpBALaAFC7WABSZ7eDvtBMgmHP89vMkk+fa0s+Pwu5JOr/3DCAZ34lTA3gEM7sCpEE8w+B/4QLxOulvB4Ha85Hjot83jpLtrjhkMbsfewWpTeIcLGNyJB/22jXfOseoBDO7Fk8IWoG08H9kbGNyOD0M5f+oPBodxrQODw7i08b4XGFyJQ0MJBkdwfCjB4Ai+6xhyYHBdvQHA/wPoV9UTmQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="20" y="10"/>
+</svg>
